@@ -1,5 +1,13 @@
 # RML Smart Calendar
 
+## Authors:
+Marcus Tangradi<br>
+Nick Madero<br>
+ Stephen Piccolo 
+  
+ ## Additional Authors:
+ Thomas Dougherty - (CSS Styling) 
+
 ##    :exclamation: Important Notice: Please read carefully!
 Before using our web application, it is essential to understand that the current version is an unfinished proof-of-concept and is not intended for commercial use. The application requires further development, particularly in the areas of legal compliance and security features, to ensure it is suitable for commercial operation. 
 
